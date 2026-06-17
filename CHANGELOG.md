@@ -4,7 +4,4 @@
 2. Console interface. Language: Russian;
 3. Greeting with user's name.
 
-### Warning!
-The program needs restarting after every use.
-
-### This version was orginally created on December 18th, 2024.
+> **This version was orginally created on December 18th, 2024.**
