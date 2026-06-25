@@ -1,5 +1,5 @@
 # Quadratic Equation Solver
-Current version: v0.1-beta
+Current version: v0.3-beta
 
 > **Note:** this program is optimized for desktop use. The ".exe" version will be available in the future updates.
 
