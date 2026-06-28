@@ -13,7 +13,8 @@
 2. Explanation of the solution of equations.
 
 ### Changes:
-The ability to input user's name was removed due to its impracticality.
+1. The ability to input user's name was removed due to its impracticality;
+2. The greeting was updated.
 
 > **This version was first released on January 8th, 2025.**
 
@@ -23,3 +24,14 @@ The ability to input user's name was removed due to its impracticality.
 An error that occured when the discriminant was negative.
 
 > **This version was first released on February 12th, 2025.**
+
+
+# v1.0 - 28.06.2026
+### Added:
+1. Graphical interface made with the "tkinter" library. Language: Russian;
+2. Rounding of numbers in the solution and answer.
+
+### Changes:
+The program now has an ".exe" file format. The code file will still be available on the release page for each new version.
+
+> **This version was first released on December 3rd, 2025.**
